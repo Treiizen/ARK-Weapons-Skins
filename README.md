@@ -39,6 +39,10 @@ Put the following lines in "Game.ini"
 
     OverrideNamedEngramEntries=(EngramClassName="EngramEntry_CompoundArrow_TVWeaponsSkins_C",EngramLevelRequirement=0,EngramPointsCost=0,EngramHidden=True,RemoveEngramPreReq=False)
 
+Download:
+
+   https://github.com/Itchx/TV-Weapons-Skins/releases
+
 Support:
 
   Site: https://topvival.com/
