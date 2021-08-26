@@ -47,4 +47,4 @@ Support:
 
   Site: https://topvival.com/
   Discord: https://discord.gg/cD5Zctetam
-  GitHub: https://github.com/Itchx
+  GitHub: https://github.com/Jul1406
