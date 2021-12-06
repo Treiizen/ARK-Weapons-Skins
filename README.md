@@ -42,9 +42,3 @@ Put the following lines in "Game.ini"
 Download:
 
    https://github.com/Itchx/TV-Weapons-Skins/releases
-
-Support:
-
-  Site: https://topvival.com/
-  Discord: https://discord.gg/cD5Zctetam
-  GitHub: https://github.com/Jul1406
