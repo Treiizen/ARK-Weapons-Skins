@@ -41,4 +41,4 @@ Put the following lines in "Game.ini"
 
 Download:
 
-   https://github.com/Itchx/TV-Weapons-Skins/releases
+   https://github.com/Jul13nY/TV-Weapons-Skins/releases
